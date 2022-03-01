@@ -2,8 +2,8 @@ import { useState } from 'react';
 import { HiMenuAlt4 } from 'react-icons/hi';
 import { AiOutlineClose } from 'react-icons/ai';
 
-import logo from '../../images/logo.png';
 import { NavbarItem } from './';
+import logo from '../../images/logo.png';
 
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
