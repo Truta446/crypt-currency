@@ -5,4 +5,5 @@ export { default as Footer } from './Footer';
 export { default as Welcome } from './Welcome';
 export { default as Services } from './Services';
 export { default as NavbarItem } from './NavbarItem';
+export { default as ServiceCard } from './ServiceCard';
 export { default as Transactions } from './Transactions';
